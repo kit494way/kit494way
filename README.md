@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 <a href="https://www.youracclaim.com/badges/d7af22f2-7a40-4439-8ddc-c90ebca63f04/public_url"><img src="images/aws-certified-devops-engineer-professional.png" width="120" alt="AWS Certified DevOps Engineer Professional"></a>
 <a href="https://www.youracclaim.com/badges/b68c4fc0-0617-4f5d-805f-7dcb7b401168/public_url"><img src="images/aws-certified-developer-associate.png" width="120" alt="AWS Certified Developer Associate"></a>
+<a href="https://www.credential.net/9d91ec18-67b1-42bc-bec1-90074335e0fc"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/43664156" width="120"></a>
 <img src="images/LinuC_v.png" width="100" alt="">
